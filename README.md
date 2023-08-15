@@ -2,6 +2,11 @@
 
 This will be a blog post on http://www.skullsecurity.org/. For now, it's a README file.
 
+## Notice
+
+Moved to [Codeberg](https://codeberg.org/evilwan/hash_extender) because of policy changes at Github (see
+[Github notice](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13) )
+
 ## Intro
 
 **You can grab the hash_extender tool on [Github](https://github.com/iagox86/hash_extender)!**
